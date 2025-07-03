@@ -1,2 +1,4 @@
-# praj_demo
-this is just a demo 
+# Praj_Demo
+This is first repo. 
+<br>
+Author-PRAJWAL S PRAKASH
